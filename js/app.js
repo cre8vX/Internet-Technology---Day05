@@ -151,11 +151,15 @@
 
 // Object
 
-let customer = {
-    name: "Saman",
-    age: 18,
-    isAfterAL: false,
-    salary: 7500.50
-}
-console.log(customer);
+// let customer = {
+//     name: "Saman",
+//     age: 18,
+//     isAfterAL: false,
+//     salary: 7500.50
+// }
+// console.log(customer);
+
+//----------------------------------------------------------------------------------------------------------
+
+
 
