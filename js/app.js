@@ -125,4 +125,37 @@
 
 //----------------------------------------------------------------------------------------------------------
 
+// Function(Call in java "Method")
+
+// function add(x, y) {
+//     return x + y;
+// }
+
+// let result = add(10, 20);
+// console.log(result);    
+
+//public static String add(int x, int y) {  
+//    return x + y; 
+//}
+
+//----------------------------------------------------------------------------------------------------------
+
+// Array
+
+// let numbers = [1, true, 3, "Saman", 5, "Ranil", "Sunil"];
+// for (let i = 0; i < numbers.length; i++) {
+//     console.log(numbers[i]);
+// }
+
+//----------------------------------------------------------------------------------------------------------
+
+// Object
+
+let customer = {
+    name: "Saman",
+    age: 18,
+    isAfterAL: false,
+    salary: 7500.50
+}
+console.log(customer);
 
